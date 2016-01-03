@@ -13,4 +13,5 @@ Note:All the functions with prefix 'read' return the raw data of a sensor,
 and all the functions with prefix 'get' return the converted data.
 
 For more detailed desription,please go to this page:
+
  http://techiemalc.blogspot.com/2016/01/sensor-data-acquisitionfilteringand.html
