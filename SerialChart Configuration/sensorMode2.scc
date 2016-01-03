@@ -1,0 +1,36 @@
+[_setup_]
+port=COM3   
+baudrate=115200
+
+width=1500
+height=1200
+background_color = white
+
+grid_h_origin = 0
+grid_h_step = 50
+grid_h_color = #EEE
+grid_h_origin_color = #CCC
+
+grid_v_origin = 0
+grid_v_step = 50
+grid_v_color = #EEE
+grid_v_origin_color = transparent
+[_default_]
+min=-1
+max=1
+
+
+[gyroZ]
+color=red
+min=-500
+max=200
+
+[angleAcc]
+color=orange
+min=-100
+max=200
+
+[angleFusion]
+color=black
+min=-100
+max=200
