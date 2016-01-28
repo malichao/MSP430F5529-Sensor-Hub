@@ -14,4 +14,4 @@ and all the functions with prefix 'get' return the converted data.
 
 For more detailed desription,please go to this page:
 
- (Sensor Data Acquisition,Filtering,and Fusion Based on MSP430F5529 and Sensor Hub)[http://lichaoma.com/2016/01/03/sensor-data-acquisitionfilteringand-fusion-based-on-msp430f5529-and-sensor-hub/]
+ [Sensor Data Acquisition,Filtering,and Fusion Based on MSP430F5529 and Sensor Hub](http://lichaoma.com/2016/01/03/sensor-data-acquisitionfilteringand-fusion-based-on-msp430f5529-and-sensor-hub/)
